@@ -1,0 +1,23 @@
+{
+  "name": "dance_on_music_app",
+  "version": "1.0.0",
+  "description": "This is a static webpage using Html, Css, JavaScript Deploying on server using jenkin's and docker.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adnan15998/Dance_on_music_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adnan15998/Dance_on_music_app/issues"
+  },
+  "homepage": "https://github.com/Adnan15998/Dance_on_music_app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
