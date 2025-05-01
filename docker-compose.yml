@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : robinsito2004/dance-music-app:latest
+     image : Robin2708/dance-music-app:latest
      ports :
          - "8000:8000"
